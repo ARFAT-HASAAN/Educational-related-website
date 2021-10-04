@@ -10,10 +10,10 @@ const Header = () => {
     return (
         <div>
 
-            <Navbar bg="light" expand="lg">
+            <Navbar className='p-3' bg="light" expand="lg">
                 <Container>
-                    <Navbar.Brand href="#home"><FontAwesomeIcon icon={faUserGraduate} />
-                        <b className='text-danger' >D.Learning Institue</b> </Navbar.Brand>
+                    <Navbar.Brand href="#home"><FontAwesomeIcon className='fs-3' icon={faUserGraduate} />
+                        <b className='text-danger fw-bold fs-3 text-dark text-uppercase' > D.Learning Institue</b> </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
