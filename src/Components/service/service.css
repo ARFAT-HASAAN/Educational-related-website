@@ -1,0 +1,24 @@
+.card-btn { background-color: #fe5555;
+          width: 120px;
+         height: 45px;
+          padding: 5px;
+          font-size: bold;
+          border-radius: 100px;
+         border: none;
+         cursor: pointer;
+         color: white;
+        
+         }
+.course-price{ font-size: 2rem;
+              font-weight: 700;
+             color: #fe5555;
+             margin-right: 20px;}
+
+.course-title{font-size: 1.7rem;
+            font-weight: 700;
+            margin-bottom: 20px;}
+.course-time{ background-color: rgb(224, 221, 221);
+             border-radius: 100px;
+             padding: 5px 10px;
+              }
+.btn-container{ padding: 10px;}

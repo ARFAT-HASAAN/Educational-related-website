@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner{
+    background-color: #200E36;
+    padding: 100px 100px 0px 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.instructor{
+    box-sizing: border-box;
+    width: 1500px;
+}
+
+.banner-head{
+    color: white;
+    font-weight: 900;
+    font-size: 3.5rem;
+    margin-top: 80px;
+    margin-bottom: 15px;
+}
+.quite{
+    color: rgb(204, 201, 201);
+   font-size: 1.2rem; 
+   margin-bottom: 25px;
+   
+}
+
+.style{color:#fe5555}
+.btn{width: 180px;
+     height: 50px;
+     border-radius: 5px;
+     padding: 5px;
+     font-size: bold;
+     background-color: #fe5555;
+    color: white ;}
