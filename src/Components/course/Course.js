@@ -25,7 +25,7 @@ const Course = () => {
             <div>
                 <h1 className='text-center fw-bold fs-1 p-5 '>Choose Your Favorite <br /> Courses</h1>
             </div>
-            <Row xs={1} md={2} lg={3} className="g-4 card-container">
+            <Row xs={1} md={2} lg={4} className="g-4 card-container">
                 {
                     courses.map(course => <Courses key={course.id} course={course} > </Courses>)
                 }
