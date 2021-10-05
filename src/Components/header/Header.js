@@ -10,10 +10,12 @@ const Header = () => {
     return (
         <div>
 
-            <Navbar className='p-3' bg="light" expand="lg">
-                <Container>
-                    <Navbar.Brand href="#home"><FontAwesomeIcon className='fs-3' icon={faUserGraduate} />
-                        <b className='text-danger fw-bold fs-3 text-dark text-uppercase' > D.Learning Institue</b> </Navbar.Brand>
+            <Navbar className='p-0' m-0 bg="light" expand="lg">
+                <Container className='py-2 mx-5'>
+                    <Navbar.Brand href="#home"><span className='border border-dark border-2 rounded-circle p-2 '>
+                        <FontAwesomeIcon className='fs-3' icon={faUserGraduate} />
+                    </span>
+                        <b className='text-danger fw-bold fs-3 text-dark text-uppercase' >  D.Learning Institue</b> </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">

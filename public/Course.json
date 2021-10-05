@@ -6,7 +6,8 @@
         "instructor": "Giyas Udddin",
         "price": 1000,
         "ratting": 4.3,
-        "hourse": "10 hr 30 min"
+        "hourse": "10 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 2,
@@ -15,7 +16,8 @@
         "instructor": "Shekh Zubair",
         "price": 8000,
         "ratting": 4.5,
-        "hourse": "9 hr 30 min"
+        "hourse": "9 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 3,
@@ -24,7 +26,8 @@
         "instructor": "Khalid Farhan",
         "price": 5000,
         "ratting": 3.3,
-        "hourse": "4 hr 30 min"
+        "hourse": "4 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 4,
@@ -33,7 +36,8 @@
         "instructor": "Elion Mask",
         "price": 1500,
         "ratting": 4.3,
-        "hourse": "15 hr 30 min"
+        "hourse": "15 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 5,
@@ -42,7 +46,8 @@
         "instructor": "Adree Helen",
         "price": 3000,
         "ratting": 4.3,
-        "hourse": "2 hr 30 min"
+        "hourse": "2 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 6,
@@ -51,7 +56,8 @@
         "instructor": "Ekram",
         "price": 4000,
         "ratting": 4.3,
-        "hourse": "5 hr 20 min"
+        "hourse": "5 hr 20 min",
+        "rattingCount": 2
     },
     {
         "course": 7,
@@ -60,7 +66,8 @@
         "instructor": "dkfd",
         "price": "5000",
         "ratting": 4.3,
-        "hourse": "10 hr 30 min"
+        "hourse": "10 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 8,
@@ -69,7 +76,8 @@
         "instructor": "Anuska Sharma",
         "price": 7500,
         "ratting": 4.3,
-        "hourse": "4 hr 30 min"
+        "hourse": "4 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 9,
@@ -78,7 +86,8 @@
         "instructor": "Tarek Mahmud",
         "price": 3000,
         "ratting": 4.3,
-        "hourse": "2 hr 30 min"
+        "hourse": "2 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 10,
@@ -87,7 +96,8 @@
         "instructor": "Mahmudul Hasan",
         "price": 3000,
         "ratting": 4.3,
-        "hourse": "6 hr 20 min"
+        "hourse": "6 hr 20 min",
+        "rattingCount": 2
     },
     {
         "course": 11,
@@ -96,7 +106,8 @@
         "instructor": "Ridowan Shakib ",
         "price": 1000,
         "ratting": 4.3,
-        "hourse": "2 hr 30 min"
+        "hourse": "2 hr 30 min",
+        "rattingCount": 2
     },
     {
         "course": 12,
@@ -105,6 +116,7 @@
         "instructor": "Ziyaur Rahman",
         "price": 5000,
         "ratting": 4.3,
-        "hourse": "27 hr 30 min"
+        "hourse": "27 hr 30 min",
+        "rattingCount": 2
     }
 ]

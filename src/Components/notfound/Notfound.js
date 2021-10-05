@@ -1,25 +1,28 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { useHistory } from 'react-router';
-import gif from '../../image/notfound.gif'
 import './notfound.css'
+import { faBackward, faHome } from '@fortawesome/free-solid-svg-icons';
+
+
 
 
 
 const Notfound = () => {
 
-    // const history = useHistory()
+    let history = useHistory()
 
-    // const backhadler = () => {
-    //     history.push('/home')
+    const backhandler = () => {
+        history.push("/home")
 
-    // }
+    }
 
     return (
-        <div className='notfound'>
+        <div className='container-fluid notfound'>
 
+            <button onClick={backhandler} className='back-btn bg-light'> <FontAwesomeIcon icon={faBackward} /> Back</button>
 
-            <button className='back-btn'>back</button>
-            <button className='home-btn'>Home</button>
+            <button onClick={backhandler} className='home-btn bg-primary'> <FontAwesomeIcon icon={faHome} /> Home</button>
 
 
         </div>

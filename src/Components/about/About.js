@@ -8,7 +8,7 @@ import { faEnvelope, faLocationArrow, faPhone, faPhoneVolume, faVoicemail } from
 const About = () => {
     return (
         <div className='row about'>
-            <div className="col-4">
+            <div className="col-12 col-md-4 colo-lg-4">
                 <h2 className='semi-header'>Desi Learning Institude</h2>
                 <p>Better than a thousand days of diligent study is one day with a great teacher </p>
                 <div class="d-flex justify-content-start social-icon">
@@ -20,7 +20,7 @@ const About = () => {
                 </div>
 
             </div>
-            <div className="col-4">
+            <div className="col-12 col-md-4 colo-lg-4">
                 <div class="d-flex flex-column bd-highlight mb-3">
                     <h3 className='semi-header'>Explore</h3>
 
@@ -34,7 +34,7 @@ const About = () => {
                 </div>
 
             </div>
-            <div className="col-4">
+            <div className="col-12 col-md-4 colo-lg-4">
                 <div className='d-flex flex-column'>
 
                     <h3 className='semi-header'> Address</h3>

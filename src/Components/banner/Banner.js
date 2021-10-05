@@ -17,8 +17,8 @@ const Banner = () => {
                 <p className='quite'>
                     The capacity to learn is a gift , The ability to learn is a skill, The willingness to learn is a choice .
                 </p>
-                <button className='btn'>
-                    <FontAwesomeIcon icon={faUser} />  Join For Free
+                <button className='btn fs-bold'>
+                    <FontAwesomeIcon icon={faUser} />      Join For Free
                 </button>
 
             </div>

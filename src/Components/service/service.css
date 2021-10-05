@@ -19,6 +19,18 @@
             margin-bottom: 20px;}
 .course-time{ background-color: rgb(224, 221, 221);
              border-radius: 100px;
-             padding: 5px 10px;
+             padding: 2px 4px;
+             font-size: 0.8rem;
               }
-.btn-container{ padding: 10px;}
+.btn-container{ padding: 0px 2px 6px 2px;}
+.icon-color{color: #ffd558;
+            font-size: 0.9rem;
+            
+            margin: 0;
+            
+            }
+.ratting-box{padding: 2px, 4px;}
+
+.count{margin: 0px;
+        padding: 0px;
+    display: inline;}
