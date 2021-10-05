@@ -12,13 +12,14 @@ import { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Header from './Components/header/Header';
-import About from './Components/about/About';
+
 import Notfound from './Components/notfound/Notfound';
 import Footer from './Components/footer/Footer';
 import Course from './Components/course/Course';
 import Home from './Components/Home/Home';
-import Displyservice from './Displyservice/Displyservice';
 import Banner from './Components/banner/Banner';
+import Displyservice from './Components/Displyservice/Displyservice'
+import About from './Components/about/About'
 
 
 function App() {
