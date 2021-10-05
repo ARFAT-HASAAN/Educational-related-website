@@ -46,7 +46,16 @@ const Header = () => {
                                         color: "red"
                                     }}
                                 >
-                                    Aboute
+                                    Contact
+                                </NavLink>
+                                <NavLink
+                                    to="/Category"
+                                    activeStyle={{
+                                        fontWeight: "bold",
+                                        color: "red"
+                                    }}
+                                >
+                                    Category
                                 </NavLink>
 
                             </Stack>

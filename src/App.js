@@ -20,6 +20,7 @@ import Home from './Components/Home/Home';
 import Banner from './Components/banner/Banner';
 import Displyservice from './Components/Displyservice/Displyservice'
 import About from './Components/about/About'
+import Category from './Components/category/Category';
 
 
 function App() {
@@ -43,6 +44,9 @@ function App() {
           </Route>
           <Route exact path="/about">
             <About></About>
+          </Route>
+          <Route exact path='/Category'>
+            <Category></Category>
           </Route>
           <Route path="*">
             <Notfound></Notfound>
